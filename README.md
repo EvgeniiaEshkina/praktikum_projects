@@ -1,2 +1,16 @@
 # praktikum_projects
 Проекты, выполненные в рамках обучения в Яндекс Практикуме по программе специалист Data Science
+  
+| № | Название проекта                          | Задача                                                                                 | Инструменты                |
+| - | ----------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------- |
+| 1 | [Музыка больших городов](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/1_big_city_music) | Анализ и сравнение музыкальных предпочтений пользователей из Москвы и Санкт-Петербурга | Python, Pandas |
+| 2 | [Исследование надежности заемщиков](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/2_banking_data_analysis) | Выяснить, влияет ли семейное положение клиента на факт возврата кредита в срок | Python, Pandas |
+| 3 | [Исследование объявлений о продаже квартир](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/3_apartment_sales_research) | Определить рыночную стоимость и типичные параметры квартир | Python, Pandas, Matplotlib |
+| 4 | [Определение выгодного тарифа для телеком-компании](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/4_telecom_research) | Проанализировать поведение клиентов и определить наиболее перспективный тариф | Python, Pandas, Matplotlib, NumPy, SciPy |
+| 5 | [Анализ данных о продажах компьютерных игр](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/5_game_sales_research) | Выявить закономерности, определяющие успешность игры | Python, Pandas, Matplotlib, NumPy, SciPy |
+| 6 | [Построение модели, предсказывающей отток клиентов](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/6_bank_client_churn_model) | Построить модель, предсказывающую отток клиентов | Python, Pandas, Matplotlib, Scikit-learn |
+| 7 | [Выбор локации для скважины](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/7_well_location_selection) | Построить модель для определения региона, где добыча принесет наибольшую прибыль | Python, Pandas, Scikit-learn, bootstrap |
+| 8 | [Создание модели для предсказания коэффициента восстановления золота из золотосодержащей руды](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/8_gold_concentration) | Cпрогнозировать концентрацию золота при проведении процесса очистки | Python, Pandas, Matplotlib, NumPy, Scikit-learn
+| 9 | [Построение модели определения стоимости автомобиля](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/9_car_cost_model) | Построить модель, предсказывающую стоимость атомобиля | Python, Pandas, lightgbm |
+| 10 | [Прогнозирование количества заказов такси на следующий час](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/10_taxi_orders_model) | Построить модель, предсказывающую количество заказов такси на следующий час | Python, Pandas, Scikit-learn, statsmodels |
+| 11 | [Создание модели, предсказывающей отток клиентов](https://github.com/EvgeniiaEshkina/praktikum_projects/tree/main/11_telecom_clients_churn_model) | Построить модель, предсказывающую отток клиентов | Python, Pandas, Scikit-learn, lightgbm, catboost |
